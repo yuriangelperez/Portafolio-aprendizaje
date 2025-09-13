@@ -1,0 +1,5 @@
+cd "C:\Users\Dell\Documents\Portafolio-aprendizaje\ruta\a\Portafolio-aprendizaje" # ruta del proyecto
+git add .
+git commit -m "comentario"
+git push
+
