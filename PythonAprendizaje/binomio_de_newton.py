@@ -2,7 +2,7 @@
 Parcial 2 de Matematica discreta - Binomio de Newton 
 
 Integrantes:
-- Yuriangel Pérez
+- Yuriangel Perez
 - Zoe Solis
 - Lautaro Torres
 - Kevin Zapata
