@@ -1,5 +1,7 @@
 # Aprendizaje de JS
-- Funciones básicas
-- listas
-- Objetos
-- Arrow
+## Contenido
+- basico1.js
+ - Funciones básicas
+ - listas
+ - Objetos
+ - Arrows
