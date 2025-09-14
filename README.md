@@ -7,19 +7,19 @@ En este portafolio iré documentando y actualizando los conocimientos que adquie
 
 ### Áreas de aprendizaje
 
-- **Linux**
+- **Linux**: 
   Aprendizaje de comandos básicos y avanzados para la administración del sistema y la automatización de tareas.
 
-- **Python**
+- **Python**:
   Fundamentos del lenguaje, estructuras de datos (listas, tuplas, diccionarios), programación orientada a objetos y pequeños proyectos prácticos.
 
-- **HTML + CSS**
+- **HTML + CSS**:
   Creación de páginas web estáticas, diseño estructurado con HTML y estilización con CSS (selectores, flexbox, grid, responsive design).
 
-- **JavaScript**
+- **JavaScript**:
   Conceptos básicos del lenguaje, funciones, objetos y programación con funciones flecha.
 
-- **Base de datos SQL** 
+- **Base de datos SQL** :
   Creación y gestión de bases de datos relacionales:  
   - Sentencias básicas (CREATE, INSERT, UPDATE, DELETE).  
   - Consultas con `SELECT` y filtros (`WHERE`, `ORDER BY`, `LIMIT`).  
@@ -33,19 +33,19 @@ In this portfolio, I will be documenting and updating the knowledge I acquire in
 The idea is to track my progress and build practical examples that I can reuse later.
 
 ### Learning areas:
-- **Linux** 
+- **Linux**: 
   Learning basic and advanced commands for system administration and task automation.
 
-- **Python** 
+- **Python**:
   Language fundamentals, data structures (lists, tuples, dictionaries), object-oriented programming, and small practical projects.
 
-- **HTML + CSS** 
+- **HTML + CSS** :
   Building static web pages, structured design with HTML, and styling with CSS (selectors, flexbox, grid, responsive design).
 
-- **JavaScript** 
+- **JavaScript** :
   Basic concepts of the language, DOM manipulation, functions, objects and arrow functions
 
-- **SQL** 
+- **SQL** :
   Creation and management of relational databases:  
   - Basic statements (CREATE, INSERT, UPDATE, DELETE).  
   - Queries with `SELECT` and filters (`WHERE`, `ORDER BY`, `LIMIT`).  
